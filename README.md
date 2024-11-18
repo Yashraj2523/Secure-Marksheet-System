@@ -184,5 +184,3 @@ You can use this Postman collection to test the API endpoints.
 3. **Test Endpoints:**
    - Use the appropriate HTTP method (POST, GET) and send the required data to test the different routes.
 ```
-
-This format ensures clarity and organization in your README file, making it easier for other users to follow the instructions for setting up and testing the Secure Marksheet System.
